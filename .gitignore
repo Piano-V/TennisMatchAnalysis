@@ -1,0 +1,5 @@
+# Ignore large model files
+models/keypoints_model.pth
+yolov8x.pt
+yolov9e.pt
+models/yolov8_ball_best.pt
