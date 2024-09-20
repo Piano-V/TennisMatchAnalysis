@@ -1,6 +1,6 @@
 # Tennis Match Analysis with Computer Vision
 
-![Tennis Match Analysis](output_video_vid.mp4)
+![Tennis Match Analysis](output_video_img.png)
 
 ## Overview
 
